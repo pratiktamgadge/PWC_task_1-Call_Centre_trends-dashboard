@@ -3,13 +3,13 @@
 
 ## Table of Contents :
 
-- [Problem Statement]()
-- [Datasource]()
-- [Data Preparation]()
-- [Data Modelling]()
-- [Data Analysis (DAX)]()
-- [Data Visualization Dashboard]()
-- [Insights]()
+- [Problem Statement](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main#problem-statement-)
+- [Datasource](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main?tab=readme-ov-file#datasource-)
+- [Data Preparation](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main?tab=readme-ov-file#data-preparation)
+- [Data Modelling](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main?tab=readme-ov-file#data-modeling)
+- [Data Analysis (DAX)](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main?tab=readme-ov-file#data-analysis-dax)
+- [Data Visualization Dashboard](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard/tree/main?tab=readme-ov-file#data-visualization-dashboard-)
+- [Insights](https://github.com/pratiktamgadge/PWC_task_1-Call_Centre_trends-dashboard#insights-)
 
 
 ## Problem Statement :
